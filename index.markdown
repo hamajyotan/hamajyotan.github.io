@@ -7,7 +7,7 @@ layout: post
 
 # Takashi SAKAGUCHI
 
-![logo]({{site.baseurl}}/images/logo.png)
+![logo]({{site.baseurl}}/assets/images/logo.png)
 
 (@hamajyotan)
 
@@ -34,7 +34,7 @@ layout: post
 ## Licenses
 
 - [Scrum Alliance Certified ScrumMaster](https://bcert.me/bc/html/show-badge.html?b=abchqzke)  
-  ![]({{site.baseurl}}/images/csm.png)
+  ![]({{site.baseurl}}/assets/images/csm.png)
 - Ruby Association Certified Ruby Programmer Gold version 2.1
 - Ruby Association Certified Ruby Programmer Silver version 2.1
 
