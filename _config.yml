@@ -34,7 +34,6 @@ github_username: hamajyotan
 
 # Build settings
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
 
 remote_theme: pages-themes/primer
