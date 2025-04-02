@@ -51,11 +51,11 @@ RSpec, minitest, Capybara, etc.
 
 ## Writing
 
-## CrowdWorks Engineer Blog
+### CrowdWorks Engineer Blog
 
 - [クラウドテックのテーブル構造を改善していった話](https://engineer.crowdworks.jp/entry/2020/09/29/171022)
 
-## Others
+### Others
 
 - [zenn.dev](https://zenn.dev/hamajyotan)
 - [Qiita](https://qiita.com/hamajyotan)
