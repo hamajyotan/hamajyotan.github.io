@@ -15,10 +15,28 @@ layout: post
 
 ### Freelance software engineer
 
-- CrowdWorks
-    - 2012/07 - 2020/09
 - STORES
     - 2021/01 - now
+    - Ruby on Rails
+- freee Sign (-> freee)
+    - 2021/04 - 2023/12, 2024/01 - 2024/06
+    - Ruby on Rails
+- Sight Visit
+    - 2020/10 - 2020/12
+    - Ruby on Rails
+- Vecnos
+    - 2019/11 - 2021/06
+    - React Native
+- CrowdWorks
+    - 2012/07 - 2020/09
+    - Ruby on Rails
+
+## Licenses
+
+- [Scrum Alliance Certified ScrumMaster](https://bcert.me/bc/html/show-badge.html?b=abchqzke)  
+  ![]({{site.baseurl}}/images/csm.png)
+- Ruby Association Certified Ruby Programmer Gold version 2.1
+- Ruby Association Certified Ruby Programmer Silver version 2.1
 
 ## Skills
 
