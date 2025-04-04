@@ -35,8 +35,7 @@ layout: post
 
 - [Scrum Alliance Certified ScrumMaster](https://bcert.me/bc/html/show-badge.html?b=abchqzke)  
   ![]({{site.baseurl}}/assets/images/csm.png)
-- Ruby Association Certified Ruby Programmer Gold version 2.1
-- Ruby Association Certified Ruby Programmer Silver version 2.1
+- [Ruby Association Certified Ruby Programmer Gold version 2.1](https://www.ruby.or.jp/ja/certification/examination/version2.1)
 
 ## Skills
 
