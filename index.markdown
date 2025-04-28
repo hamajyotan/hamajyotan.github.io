@@ -47,7 +47,9 @@ RSpec, minitest, Capybara, etc.
 
 ## Products
 
-- [active_record_compose (gem)](https://github.com/hamajyotan/active_record_compose)
+- [active_record_compose](https://github.com/hamajyotan/active_record_compose)
+    - [Smart way to update multiple models simultaneously in Rails](https://dev.to/hamajyotan/smart-way-to-update-multiple-models-simultaneously-in-rails-51b6)
+    - [Rails で複数のモデルを同時に更新するスマートな方法](https://zenn.dev/hamajyotan/articles/3e618ed8b6d22b)
 
 ## Writing
 
