@@ -9,7 +9,8 @@ layout: post
 
 ![logo]({{site.baseurl}}/assets/images/logo.png)
 
-(@hamajyotan)
+- 坂口孝志 (さかぐちたかし)
+- @hamajyotan
 
 ## Profile
 
