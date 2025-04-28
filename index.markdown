@@ -69,4 +69,5 @@ RSpec, minitest, Capybara, etc.
 - [twitter](https://x.com/hamajyotan)
 - [Bluesky](https://bsky.app/profile/hamajyotan.bsky.social)
 - [facebook](https://www.facebook.com/hamajyotan)
+- [Business card (Eight)](https://8card.net/virtual_cards/Ifg-B5d5-eQw11A_furVyw)
 
