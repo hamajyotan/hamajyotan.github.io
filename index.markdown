@@ -13,6 +13,8 @@ layout: post
 - @hamajyotan
 - freelance software engineer living and working in Tottori City, a coastal area in western Japan known for its beautiful sand dunes.
 
+![logo]({{site.baseurl}}/assets/images/camel.png)
+
 ## Profile
 
 ### Freelance software engineer
@@ -57,7 +59,7 @@ RSpec, minitest, Capybara, etc.
 
 ## Writing
 
-### CrowdWorks Engineer Blog
+### CROWDWORKS Engineer Blog
 
 - [クラウドテックのテーブル構造を改善していった話](https://engineer.crowdworks.jp/entry/2020/09/29/171022)
 
