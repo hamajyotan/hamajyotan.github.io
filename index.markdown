@@ -11,6 +11,7 @@ layout: post
 
 - 坂口孝志 (さかぐちたかし)
 - @hamajyotan
+- freelance software engineer living and working in Tottori City, a coastal area in western Japan known for its beautiful sand dunes.
 
 ## Profile
 
@@ -31,6 +32,9 @@ layout: post
 - CrowdWorks
     - 2012/07 - 2020/09
     - Ruby on Rails
+- Independent software company (undisclosed)
+    - 1999/04 - 2013/02
+    - Ruby, Ruby on Rails, Java, Scala, PHP, C++, C#, VB.net, etc.
 
 ## Licenses
 
