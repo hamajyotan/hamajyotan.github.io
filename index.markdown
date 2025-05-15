@@ -38,6 +38,10 @@ layout: post
     - 1999/04 - 2013/02
     - Ruby, Ruby on Rails, Java, Scala, PHP, C++, C#, VB.net, etc.
 
+### Company
+
+- [Office UMMM LLC](https://www.ummm.info/)
+
 ## Licenses
 
 - [Scrum Alliance Certified ScrumMaster](https://bcert.me/bc/html/show-badge.html?b=abchqzke)  
@@ -59,7 +63,7 @@ RSpec, minitest, Capybara, etc.
 
 ## Writing
 
-### CROWDWORKS Engineer Blog
+### CrowdWorks Engineer Blog
 
 - [クラウドテックのテーブル構造を改善していった話](https://engineer.crowdworks.jp/entry/2020/09/29/171022)
 
