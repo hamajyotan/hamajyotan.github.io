@@ -19,6 +19,9 @@ layout: post
 
 ### Freelance software engineer
 
+- Speee
+    - 2026/01 - now
+    - Ruby on Rails
 - STORES
     - 2021/01 - now
     - Ruby on Rails
