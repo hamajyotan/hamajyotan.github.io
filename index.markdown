@@ -19,11 +19,11 @@ layout: post
 
 ### Freelance software engineer
 
-- Speee
-    - 2026/01 - now
-    - Ruby on Rails
 - STORES
     - 2021/01 - now
+    - Ruby on Rails
+- Speee
+    - 2026/01 - 2026/09
     - Ruby on Rails
 - freee Sign (-> freee)
     - 2021/04 - 2023/12, 2024/01 - 2024/06
@@ -47,7 +47,7 @@ layout: post
 
 ## Licenses
 
-- [Scrum Alliance Certified ScrumMaster](https://bcert.me/bc/html/show-badge.html?b=abchqzke)  
+- [Scrum Alliance Certified ScrumMaster](https://bcert.me/bc/html/show-badge.html?b=abchqzke)
   ![]({{site.baseurl}}/assets/images/csm.png)
 - [Ruby Association Certified Ruby Programmer Gold version 2.1](https://www.ruby.or.jp/ja/certification/examination/version2.1)
 
