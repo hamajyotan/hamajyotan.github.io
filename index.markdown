@@ -19,6 +19,9 @@ layout: post
 
 ### Freelance software engineer
 
+- SimpleForm
+    - 2026/11 - now
+    - Ruby on Rails
 - STORES
     - 2021/01 - now
     - Ruby on Rails
